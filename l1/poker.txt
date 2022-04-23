@@ -1,0 +1,10 @@
+# poker function main 
+
+def poker(list of hands)
+    "return the best hand : poker([hand,..])=> hand"
+    return max
+
+
+## max with key
+
+max([3,4,-5,0],key=abs)
